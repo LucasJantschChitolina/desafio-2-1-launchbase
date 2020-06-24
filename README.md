@@ -1,5 +1,6 @@
 
-<img src=”launchbase-logo” style="width: 500px; height: 500px;">
+![launchbase-logo](https://user-images.githubusercontent.com/62803510/85540492-700d0700-b5ed-11ea-9ce7-aa36274ed2bc.png)
+
 
 # README
 
