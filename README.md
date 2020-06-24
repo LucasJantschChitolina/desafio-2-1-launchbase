@@ -1,5 +1,5 @@
 
-<img src=”launchbase-logo”>
+<img src=”launchbase-logo” style="width: 100%; height: 100%;">
 
 # README
 
